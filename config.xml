@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "[penguinjumper.FF76YT.edu.mit.scratch]"
+        id          = "[averyhungrycat.FF76YT.edu.mit.scratch]"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Dog Jumper</name>
+    <name>A Very Hungry Cat</name>
 
     <description>
-        A fun game where a dog jumps onto a boat. Made with scratch. Credit to karatebuilderboy https://scratch.mit.edu/projects/116055504/.
+        A fun game where you eat as many apples as you can. Made with scratch. Credit to karatebuilderboy https://scratch.mit.edu/projects/116055504/.
     </description>
 
     <author href="http://scratch.mit.edu/users/FF76YT" email="fanaticalfish76@gmail.com">
